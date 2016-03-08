@@ -54,8 +54,8 @@
 		705A53991C8A076A006203D4 /* Timed Fetch */ = {
 			isa = PBXGroup;
 			children = (
-				705A539A1C8A076A006203D4 /* AppDelegate.swift */,
 				705A539C1C8A076A006203D4 /* ViewController.swift */,
+				705A539A1C8A076A006203D4 /* AppDelegate.swift */,
 				705A539E1C8A076A006203D4 /* Main.storyboard */,
 				705A53A11C8A076A006203D4 /* Assets.xcassets */,
 				705A53A31C8A076A006203D4 /* LaunchScreen.storyboard */,
@@ -286,6 +286,7 @@
 				705A53AB1C8A076A006203D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
